@@ -1,0 +1,5 @@
+print("Ma grand-mère se promène dans les bois")
+print("Elle mange des biscuits")
+print("Ma grand-mère à maintenant le diabète")
+print("Ma grand-mère est accro à l'insuline")
+print("Elle prend de l'héroine")
